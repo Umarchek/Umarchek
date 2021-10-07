@@ -1,16 +1,17 @@
 [![LOGO](https://github.com/UZBase/UZBase/blob/main/assets/logo_1.jpg)](https://www.youtube.com/c/UZBase)
 
-## I'm a beginner Youtuber and Software Engineer
+## I'm a beginner Youtuber and Web development
 
 ### Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
 
-- [Уроки для начинающих #16 - ООП: Видимость. Getters / Setters](https://www.youtube.com/watch?v=4lM0Uuh31vE)
-- [Уроки для начинающих #15 - ООП: Классы и объекты](https://www.youtube.com/watch?v=HJ090EowqI0)
-- [Уроки для начинающих #14 - typedef](https://www.youtube.com/watch?v=OVHnhjZzGWA)
-- [Уроки для начинающих #13 - Функции](https://www.youtube.com/watch?v=_k9Xu61XlVE)
-- [Как опубликовать Flutter приложение в Google Play](https://www.youtube.com/watch?v=vgPup1IJ5NQ)
+- [TEZ VA OSON SAYT YARATISH 🧨 // QANDAY QILIB SAYT YARATADI ? 🤩🧨
+](https://www.youtube.com/watch?v=zqeHYeTXnps)
+- [😳WINDOWS 11 TORTIB || URNATIB KURISH](https://www.youtube.com/watch?v=9psnSb8kxXY)
+- [MUSIQA ESHTISH UCHUN AJOYIB PROGRAMMA](https://www.youtube.com/watch?v=GtQHqSyU7MQ)
+- [INSTAGRAM,TIK TOK,TELEGRAM NAKRUTKA QILISH](https://www.youtube.com/watch?v=iDoutykpmUY)
+- [2 hour coding](https://www.youtube.com/watch?v=3s11wpBeeAU)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
@@ -21,9 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1C0B1A?style=for-the-badge&logo=MongoDB&logoColor=E9D54D)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-1C0B1A?style=for-the-badge&logo=ubuntu&logoColor=E9D54D)
 
-### My steam:
-[![Steam Profile](https://img.shields.io/badge/-Steam-1C0B1A?style=for-the-badge&logo=Steam&logoColor=FF0000)](https://steamcommunity.com/profiles/76561199014469830)
-
 ### Follow Me:
 
 [![Site](https://img.shields.io/badge/-MySite-1C0B1A?style=for-the-badge&logo=Internet&logoColor=FF0000)](https://UZBase.uz)
@@ -31,3 +29,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-1C0B1A?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/UZBase)
 [![Instagram](https://img.shields.io/badge/-Instagram-1C0B1A?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/Um4rj0n)
 [![Twitter](https://img.shields.io/badge/-Twitter-1C0B1A?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/UZBase)
+[![Steam Profile](https://img.shields.io/badge/-Steam-1C0B1A?style=for-the-badge&logo=Steam&logoColor=FF0000)](https://steamcommunity.com/profiles/76561199014469830)
