@@ -1,4 +1,4 @@
-[![LOGO](https://github.com/UZBase/UZBase/blob/main/assets/logo.png)](https://www.youtube.com/c/UZBase)
+[![LOGO](https://github.com/UZBase/UZBase/blob/main/assets/logo_1.jpg)](https://www.youtube.com/c/UZBase)
 
 ## I'm a beginner Youtuber and Web development || Я новичок в ютубере и веб-разработке
 
