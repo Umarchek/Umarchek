@@ -5,13 +5,6 @@
 ### Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
-
-- [TEZ VA OSON SAYT YARATISH 🧨 // QANDAY QILIB SAYT YARATADI ? 🤩🧨
-](https://www.youtube.com/watch?v=zqeHYeTXnps)
-- [😳WINDOWS 11 TORTIB || URNATIB KURISH](https://www.youtube.com/watch?v=9psnSb8kxXY)
-- [MUSIQA ESHTISH UCHUN AJOYIB PROGRAMMA](https://www.youtube.com/watch?v=GtQHqSyU7MQ)
-- [INSTAGRAM,TIK TOK,TELEGRAM NAKRUTKA QILISH](https://www.youtube.com/watch?v=iDoutykpmUY)
-- [2 hour coding](https://www.youtube.com/watch?v=3s11wpBeeAU)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
