@@ -5,6 +5,11 @@
 ### Latest YouTube Videos: || Последние видео на YouTube:
 
 <!-- YOUTUBE:START -->
+- [Xmmm........](https://www.youtube.com/watch?v=FXDqi_C1TJ0)
+- [TEZ VA OSON SAYT YARATISH 🧨 // QANDAY QILIB SAYT YARATADI ? 🤩🧨](https://www.youtube.com/watch?v=zqeHYeTXnps)
+- [😳WINDOWS 11 TORTIB || URNATIB KURISH || WINDOWS 11 TEST🥺](https://www.youtube.com/watch?v=9psnSb8kxXY)
+- [MUSIQA ESHTISH UCHUN AJOYIB PROGRAMMA // SPOTIFY PROGRAMMASI HAQIDA // SPOTIFY OBZOR](https://www.youtube.com/watch?v=GtQHqSyU7MQ)
+- [INSTAGRAM,TIK TOK,TELEGRAM NAKRUTKA QILISH (OSSON BOT ORQALI)](https://www.youtube.com/watch?v=iDoutykpmUY)
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools: || Языки и инструменты:
