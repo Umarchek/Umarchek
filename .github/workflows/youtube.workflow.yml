@@ -1,4 +1,4 @@
-name: Latest Youtube Videos
+name: Languages and Tools: || Языки и инструменты:
 on:
   schedule:
     # Runs every day

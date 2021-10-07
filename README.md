@@ -1,13 +1,13 @@
 [![LOGO](https://github.com/UZBase/UZBase/blob/main/assets/logo.png)](https://www.youtube.com/c/UZBase)
 
-## I'm a beginner Youtuber and Web development
+## I'm a beginner Youtuber and Web development || Я новичок в ютубере и веб-разработке
 
-### Latest YouTube Videos:
+### Latest YouTube Videos: || Последние видео на YouTube:
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-### Languages and Tools:
+### Languages and Tools: || Языки и инструменты:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C0B1A?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-1C0B1A?style=for-the-badge&logo=DigitalOcean&logoColor=E9D54D)
@@ -15,7 +15,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1C0B1A?style=for-the-badge&logo=MongoDB&logoColor=E9D54D)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-1C0B1A?style=for-the-badge&logo=ubuntu&logoColor=E9D54D)
 
-### Follow Me:
+### Follow Me: || Подписывайтесь на меня:
 
 [![Site](https://img.shields.io/badge/-MySite-1C0B1A?style=for-the-badge&logo=Internet&logoColor=FF0000)](https://UZBase.uz)
 [![YouTube](https://img.shields.io/badge/-YouTube-1C0B1A?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/UZBase)
