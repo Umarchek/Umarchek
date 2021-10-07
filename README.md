@@ -5,7 +5,6 @@
 ### Latest YouTube Videos:
 
 <!-- YOUTUBE:START -->
-
 <!-- YOUTUBE:END -->
 
 ### Languages and Tools:
