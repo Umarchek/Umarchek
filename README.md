@@ -33,6 +33,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/UZBase/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UZBase&layout=compact)](https://github.com/UZBase/github-readme-stats)
+<hr>
 ### <h1 align="center">I'm listening right now: || Я прямо сейчас слушаю:</h1>
 <br/>  
 
