@@ -29,7 +29,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1C0B1A?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/UZBase)
 [![Steam Profile](https://img.shields.io/badge/-Steam-1C0B1A?style=for-the-badge&logo=Steam&logoColor=FF0000)](https://steamcommunity.com/profiles/76561199014469830)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/UZBase/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UZBase&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UZBase&layout=compact)](https://github.com/UZBase/github-readme-stats)
 <hr>
