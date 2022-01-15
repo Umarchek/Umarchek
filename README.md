@@ -1,16 +1,6 @@
 [![LOGO](https://github.com/UZBase/UZBase/blob/main/assets/logo_1.jpg)](https://www.youtube.com/c/UZBase)
 
-## I'm a beginner Youtuber and Web development || Я новичок в ютубере и веб-разработке
-
-### Latest YouTube Videos: || Последние видео на YouTube:
-
-<!-- YOUTUBE:START -->
-- [Xmmm........](https://www.youtube.com/watch?v=FXDqi_C1TJ0)
-- [TEZ VA OSON SAYT YARATISH 🧨 // QANDAY QILIB SAYT YARATADI ? 🤩🧨](https://www.youtube.com/watch?v=zqeHYeTXnps)
-- [😳WINDOWS 11 TORTIB || URNATIB KURISH || WINDOWS 11 TEST🥺](https://www.youtube.com/watch?v=9psnSb8kxXY)
-- [MUSIQA ESHTISH UCHUN AJOYIB PROGRAMMA // SPOTIFY PROGRAMMASI HAQIDA // SPOTIFY OBZOR](https://www.youtube.com/watch?v=GtQHqSyU7MQ)
-- [INSTAGRAM,TIK TOK,TELEGRAM NAKRUTKA QILISH (OSSON BOT ORQALI)](https://www.youtube.com/watch?v=iDoutykpmUY)
-<!-- YOUTUBE:END -->
+## I'm a junior Full Stack developer || Я junior Full Stack разработчик
 
 ### Languages and Tools: || Языки и инструменты:
 
