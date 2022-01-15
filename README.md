@@ -30,11 +30,11 @@
 [![Steam Profile](https://img.shields.io/badge/-Steam-1C0B1A?style=for-the-badge&logo=Steam&logoColor=FF0000)](https://steamcommunity.com/profiles/76561199014469830)
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=uzbase&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Umarchek&theme=github)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UZBase&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Umarchek&hide=contribs,prs&count_private=true&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UZBase&layout=compact)](https://github.com/UZBase/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Umarchek&layout=compact)](https://github.com/Umarchek/github-readme-stats)
 <hr>
 <h1 align="center">I'm listening right now: || Я прямо сейчас слушаю:</h1>
 <br/>  
