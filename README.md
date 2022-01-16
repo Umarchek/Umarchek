@@ -22,6 +22,12 @@
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Umarchek&theme=github)
 
+## ❤ Views and Followers
+<a href="https://github.com/Umarchek/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Umarchek">
+</a>
+<a href="https://github.com/Umarchek?tab=followers"><img src="https://img.shields.io/github/followers/Umarchek?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <hr>
 <h1 align="center">I'm listening right now: || Я прямо сейчас слушаю:</h1>
 <br/>  
