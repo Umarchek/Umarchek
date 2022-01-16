@@ -20,7 +20,8 @@
 [![Steam Profile](https://img.shields.io/badge/-Steam-1C0B1A?style=for-the-badge&logo=Steam&logoColor=FF0000)](https://steamcommunity.com/profiles/76561199014469830)
 
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Umarchek&theme=github)
+<a href="https://github.com/umarchek/github-readme-activity-graph"><img alt="Umarkhan" src="https://activity-graph.herokuapp.com/graph?username=umarchek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Umarchek/github-profile-views-counter">
