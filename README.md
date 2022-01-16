@@ -19,6 +19,11 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1C0B1A?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/UZBase)
 [![Steam Profile](https://img.shields.io/badge/-Steam-1C0B1A?style=for-the-badge&logo=Steam&logoColor=FF0000)](https://steamcommunity.com/profiles/76561199014469830)
 
+## 📊 My Github Stats || 📊 Моя статистика на гитхабе
+
+  <br/>
+    <div style="display:flex;"><a style="margin-right:10px;" href="https://github.com/umarchek/github-readme-stats"><img alt="Md Irfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=umarchek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/umarchek/github-readme-stats"><img alt="Md Irfan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarchek&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
+  <br/>
 
 <a href="https://github.com/umarchek/github-readme-activity-graph"><img alt="Umarkhan" src="https://activity-graph.herokuapp.com/graph?username=umarchek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
