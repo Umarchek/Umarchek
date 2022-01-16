@@ -19,6 +19,12 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1C0B1A?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/UZBase)
 [![Steam Profile](https://img.shields.io/badge/-Steam-1C0B1A?style=for-the-badge&logo=Steam&logoColor=FF0000)](https://steamcommunity.com/profiles/76561199014469830)
 
+<p align="center">
+    <a href="https://github.com/umarchek/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Irfan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umarchek&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 ## 📊 My Github Stats || 📊 Моя статистика на гитхабе
 
   <br/>
