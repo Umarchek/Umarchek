@@ -1,4 +1,4 @@
-[![LOGO](https://github.com/UZBase/UZBase/blob/main/assets/logo_1.jpg)](https://www.youtube.com/c/UZBase)
+[![LOGO](https://github.com/Umarchek/Umarchek/blob/main/assets/logo_1.jpg)](https://www.youtube.com/c/UZBase)
 
 ## I'm a junior Full Stack developer || Я junior Full Stack разработчик
 
