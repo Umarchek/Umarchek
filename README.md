@@ -2,13 +2,32 @@
 
 ## I'm a junior Full Stack developer || Я junior Full Stack разработчик
 
-### Languages and Tools: || Языки и инструменты:
+## TODO
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-1C0B1A?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-1C0B1A?style=for-the-badge&logo=DigitalOcean&logoColor=E9D54D)
-![NodeJs](https://img.shields.io/badge/-NodeJS-1C0B1A?style=for-the-badge&logo=nodedotjs&logoColor=E9D54D)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1C0B1A?style=for-the-badge&logo=MongoDB&logoColor=E9D54D)
-![Ubuntu](https://img.shields.io/badge/-ubuntu-1C0B1A?style=for-the-badge&logo=ubuntu&logoColor=E9D54D)
+- [ ] Big Data
+- [ ] Machine Learning
+- [ ] AI
+- [x] Programing Language
+  - [x] Node.JS
+  - [x] JavaScript
+  - [ ] Typescript
+  - [ ] Python
+  - [ ] Java
+  - [ ] C#
+- [ ] Bots
+  - [x] Telegram Bot
+  - [ ] Minecraft Bot
+  - [ ] Rasa
+- [ ] Database
+  - [x] MongoDB
+  - [ ] MySql
+- [ ] Framework
+  - [x] React
+  - [ ] Django
+  - [ ] Angular
+  - [ ] Laravel
+- [x] Version control (Git)
+- [ ] PyPi
 
 ### Follow Me: || Подписывайтесь на меня:
 
