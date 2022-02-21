@@ -14,14 +14,14 @@
   - [ ] Python
   - [ ] Java
   - [ ] C#
-- [ ] Bots
-  - [x] Telegram Bot
+- [x] Bots
+  - [x] Telegraf Js
   - [ ] Minecraft Bot
   - [ ] Rasa
-- [ ] Database
+- [x] Database
   - [x] MongoDB
   - [ ] MySql
-- [ ] Framework
+- [x] Framework
   - [x] React
   - [ ] Django
   - [ ] Angular
