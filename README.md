@@ -1,36 +1,4 @@
 
-
-## I'm a junior Full Stack developer || Я junior Full Stack разработчик
-
-## TODO
-
-- [ ] Big Data
-- [ ] Machine Learning
-- [ ] AI
-- [x] Programing Language
-  - [x] Node.JS
-  - [x] JavaScript
-  - [ ] Typescript
-  - [ ] Python
-  - [ ] Java
-  - [ ] C#
-- [x] Bots
-  - [x] Telegraf Js
-  - [ ] Minecraft Bot
-  - [ ] Rasa
-- [x] Database
-  - [x] MongoDB
-  - [ ] MySql
-- [x] Framework
-  - [x] React
-  - [ ] Django
-  - [ ] Angular
-  - [ ] Laravel
-- [x] Version control (Git)
-- [ ] PyPi
-
-
-
 <p align="center">
     <a href="https://github.com/umarchek/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Irfan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=umarchek&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
