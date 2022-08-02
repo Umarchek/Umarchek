@@ -21,9 +21,5 @@
 <a href="https://github.com/Umarchek?tab=followers"><img src="https://img.shields.io/github/followers/Umarchek?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <hr>
-<h1 align="center">I'm listening right now: || Я прямо сейчас слушаю:</h1>
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=q7ln75i89tr8d9ctwlketujop&cover_image=true&theme=default" /></div>  
 
 <br/>  
